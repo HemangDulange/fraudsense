@@ -1,0 +1,8 @@
+{
+  "model_type": "PCADetector",
+  "n_components": 5,
+  "mean": "__npz__mean",
+  "components": "__npz__components",
+  "explained_variance": "__npz__explained_variance",
+  "is_fitted": true
+}

@@ -1,0 +1,7 @@
+{
+  "model_type": "MahalanobisDetector",
+  "reg": 1e-06,
+  "mean": "__npz__mean",
+  "cov_reg": "__npz__cov_reg",
+  "is_fitted": true
+}

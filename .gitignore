@@ -1,0 +1,22 @@
+# Raw dataset containing credit card transactions
+data/raw/
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit run cache
+.streamlit/cache/
+
+# Backups and zips
+*.zip
+churniq_backup.zip

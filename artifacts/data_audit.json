@@ -1,0 +1,71 @@
+{
+  "file_sha256": "d91409ea32aeecd4ae89827887e8e4018f9b597cf65a9c637f944a177af98873",
+  "shape": {
+    "num_rows": 3000,
+    "num_columns": 31
+  },
+  "data_quality": {
+    "total_missing_values": 0,
+    "has_missing_values": false,
+    "duplicate_rows": 0,
+    "duplicate_rows_pct": 0.0
+  },
+  "class_distribution": {
+    "normal_transactions": 2508,
+    "fraud_transactions": 492,
+    "fraud_rate": 0.164,
+    "fraud_rate_pct": 16.4,
+    "imbalance_ratio": "1 fraud per 5 normal transactions"
+  },
+  "amount_summary": {
+    "min": 0.09899560362100601,
+    "max": 890.9688720703125,
+    "mean": 77.18968963623047,
+    "std": 85.43465423583984,
+    "median": 51.84623336791992,
+    "p25": 19.182003021240234,
+    "p75": 103.2022476196289,
+    "p99": 407.5857238769531
+  },
+  "time_summary": {
+    "min_seconds": 78.65144348144531,
+    "max_seconds": 172785.375,
+    "mean_seconds": 87489.671875,
+    "std_seconds": 49296.51953125,
+    "median_seconds": 87863.375,
+    "total_span_hours": 47.97408987681071
+  },
+  "dtypes": {
+    "Time": "float32",
+    "V1": "float32",
+    "V2": "float32",
+    "V3": "float32",
+    "V4": "float32",
+    "V5": "float32",
+    "V6": "float32",
+    "V7": "float32",
+    "V8": "float32",
+    "V9": "float32",
+    "V10": "float32",
+    "V11": "float32",
+    "V12": "float32",
+    "V13": "float32",
+    "V14": "float32",
+    "V15": "float32",
+    "V16": "float32",
+    "V17": "float32",
+    "V18": "float32",
+    "V19": "float32",
+    "V20": "float32",
+    "V21": "float32",
+    "V22": "float32",
+    "V23": "float32",
+    "V24": "float32",
+    "V25": "float32",
+    "V26": "float32",
+    "V27": "float32",
+    "V28": "float32",
+    "Amount": "float32",
+    "Class": "int8"
+  }
+}

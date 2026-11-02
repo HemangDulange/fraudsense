@@ -1,0 +1,11 @@
+{
+  "model_type": "LogisticRegressionFromScratch",
+  "lr": 0.05,
+  "n_epochs": 400,
+  "l2_reg": 0.0,
+  "use_class_weights": true,
+  "weights": "__npz__weights",
+  "bias": -2.1877218381348587,
+  "loss_history": "__npz__loss_history",
+  "is_fitted": true
+}

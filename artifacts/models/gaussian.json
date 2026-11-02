@@ -1,0 +1,7 @@
+{
+  "model_type": "GaussianDetector",
+  "var_smoothing": 1e-09,
+  "mean": "__npz__mean",
+  "var": "__npz__var",
+  "is_fitted": true
+}
